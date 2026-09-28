@@ -1,0 +1,112 @@
+[
+  {
+    "studentId": "STU1001",
+    "firstName": "Liam",
+    "lastName": "Miller",
+    "age": 16,
+    "grade": 11,
+    "gpa": 3.8,
+    "email": "liam.m@example.com",
+    "subjects": ["Mathematics", "Physics", "English", "Computer Science"],
+    "isActive": true
+  },
+  {
+    "studentId": "STU1002",
+    "firstName": "Sophia",
+    "lastName": "Garcia",
+    "age": 15,
+    "grade": 10,
+    "gpa": 3.9,
+    "email": "sophia.g@example.com",
+    "subjects": ["Biology", "Chemistry", "World History", "English"],
+    "isActive": true
+  },
+  {
+    "studentId": "STU1003",
+    "firstName": "Ethan",
+    "lastName": "Chen",
+    "age": 17,
+    "grade": 12,
+    "gpa": 3.5,
+    "email": "ethan.c@example.com",
+    "subjects": ["Calculus", "Economics", "Literature", "Art History"],
+    "isActive": true
+  },
+  {
+    "studentId": "STU1004",
+    "firstName": "Emma",
+    "lastName": "Johnson",
+    "age": 16,
+    "grade": 11,
+    "gpa": 3.2,
+    "email": "emma.j@example.com",
+    "subjects": ["Algebra II", "Chemistry", "US History", "Spanish"],
+    "isActive": false
+  },
+  {
+    "studentId": "STU1005",
+    "firstName": "Noah",
+    "lastName": "Patel",
+    "age": 14,
+    "grade": 9,
+    "gpa": 3.7,
+    "email": "noah.p@example.com",
+    "subjects": ["Geometry", "Physical Science", "Geography", "English"],
+    "isActive": true
+  },
+  {
+    "studentId": "STU1006",
+    "firstName": "Ava",
+    "lastName": "Taylor",
+    "age": 17,
+    "grade": 12,
+    "gpa": 4.0,
+    "email": "ava.t@example.com",
+    "subjects": ["AP Biology", "AP Calculus", "AP Psychology", "French"],
+    "isActive": true
+  },
+  {
+    "studentId": "STU1007",
+    "firstName": "Lucas",
+    "lastName": "Kim",
+    "age": 15,
+    "grade": 10,
+    "gpa": 2.9,
+    "email": "lucas.k@example.com",
+    "subjects": ["English", "Algebra I", "Biology", "Physical Education"],
+    "isActive": true
+  },
+  {
+    "studentId": "STU1008",
+    "firstName": "Mia",
+    "lastName": "Martinez",
+    "age": 16,
+    "grade": 11,
+    "gpa": 3.6,
+    "email": "mia.m@example.com",
+    "subjects": ["Pre-Calculus", "Physics", "English", "Drama"],
+    "isActive": true
+  },
+  {
+    "studentId": "STU1009",
+    "firstName": "Jackson",
+    "lastName": "White",
+    "age": 14,
+    "grade": 9,
+    "gpa": 3.4,
+    "email": "jackson.w@example.com",
+    "subjects": ["Earth Science", "Algebra I", "Civics", "Music"],
+    "isActive": true
+  },
+  {
+    "studentId": "STU1010",
+    "firstName": "Isabella",
+    "lastName": "Nguyen",
+    "age": 17,
+    "grade": 12,
+    "gpa": 3.85,
+    "email": "isabella.n@example.com",
+    "subjects": ["Statistics", "Environmental Science", "English", "Government"],
+    "isActive": true
+  }
+]

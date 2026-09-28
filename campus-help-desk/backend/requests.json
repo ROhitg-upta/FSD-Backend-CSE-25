@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "studentName": "Rohit Kumar Gupta",
+    "email": "rohitguptaitc1@gmail.com",
+    "category": "Hostel",
+    "problemDescription": "water is bad",
+    "priority": "High",
+    "createdAt": "2026-09-28T04:30:33.918Z"
+  },
+  {
+    "id": 2,
+    "studentName": "vinode",
+    "email": "rohitguptaitc1@gmail.com",
+    "category": "Hostel",
+    "problemDescription": " sdcgbvjh",
+    "priority": "Low",
+    "createdAt": "2026-09-28T04:35:49.751Z"
+  },
+  {
+    "id": 3,
+    "studentName": "Rohit Kumar Gupta",
+    "email": "rohitguptaitc1@gmail.com",
+    "category": "Hostel",
+    "problemDescription": "mbersjkgbkjdsfv",
+    "priority": "Medium",
+    "createdAt": "2026-09-28T04:40:13.725Z"
+  }
+]

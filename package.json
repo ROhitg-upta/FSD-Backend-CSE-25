@@ -1,0 +1,20 @@
+{
+  "name": "fsd",
+  "version": "1.0.0",
+  "description": "sem III repo",
+  "homepage": "https://github.com/RituRai-03/FST#readme",
+  "bugs": {
+    "url": "https://github.com/RituRai-03/FST/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RituRai-03/FST.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
