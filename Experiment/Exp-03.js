@@ -8,6 +8,7 @@ const HOST =  "localhost";
 const server = http.createServer((req,res)=>{
     res.writeHead(200,{"Content-Type": "text/html"});
     res.write("<h1>Hello World</h1>")
+    
     res.write("<h1>Error 403 page not found </h1>")
     res.end();
 });
