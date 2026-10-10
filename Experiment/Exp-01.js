@@ -6,6 +6,7 @@
 
 // const  myEmitter=new MyEmitter();
 
+
 // myEmitter.on("greet", (name)=>{
 //    console.log(`hello ${name}`); //template literals`${}`
 
