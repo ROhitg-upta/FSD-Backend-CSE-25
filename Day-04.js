@@ -11,6 +11,7 @@ const f2 = () => {
 
 const f3 = () => {
     console.log("main function");
+    // HII
     setTimeout(f1, 1000);
     setTimeout(f2, 2000);
     new Promise((resolve, reject) => {
