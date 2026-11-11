@@ -9,6 +9,8 @@ const f2 = () => {
     console.log("f2");
 };
 
+
+
 const f3 = () => {
     console.log("main function");
     // HII
