@@ -11,6 +11,12 @@
 // console.log("synchronous javascript");
 
 
+
+
+
+
+
+
 //asynchronous function
 
 //arrow function
