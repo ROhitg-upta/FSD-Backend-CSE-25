@@ -8,6 +8,8 @@ fs.writeFile('myfile.txt', 'This is create command in fs module using writeFile(
     console.log('File created successfully!');
 });
 
+
+
 //Read a file readfile() method
 
 fs.readFile('myfile.txt', 'utf8', (err, data) => {
