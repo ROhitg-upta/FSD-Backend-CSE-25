@@ -8,7 +8,31 @@
 //         reject("ERROR : undefined data...");
 //     }
 //     console.log("asynchrounous task...");
-    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 // },1000)
 
 // }).then(function(result) {
